@@ -1,4 +1,4 @@
-Project
+Week1
 =====
 
 .. _installation:
