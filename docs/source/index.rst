@@ -16,8 +16,13 @@ Welcome to Shaw's documentation!
 Contents
 --------
 
-.. toctree::
+Test
+==============================
 
+.. toctree::
+   :caption: Test
+   :maxdepth: 2
+   
    test
    api
    usage
