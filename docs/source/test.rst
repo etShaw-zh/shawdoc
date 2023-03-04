@@ -3,7 +3,7 @@ Test
 
 .. _installation:
 
-test 1
+api
 ------------
 
 api ...
