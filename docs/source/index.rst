@@ -26,3 +26,12 @@ Test
    test
    api
    usage
+
+cMOOC
+==============================
+
+.. toctree::
+   :caption: cMOOC
+   :maxdepth: 2
+
+   /cmooc/index.rst
