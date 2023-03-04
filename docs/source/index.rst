@@ -35,3 +35,4 @@ cMOOC
    :maxdepth: 2
 
    /cmooc/index.rst
+   /cmooc/week1.rst
