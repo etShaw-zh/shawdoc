@@ -20,4 +20,4 @@ Contents
 
    test
    api
-   asage
+   usage
