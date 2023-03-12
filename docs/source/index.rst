@@ -36,3 +36,12 @@ cMOOC
 
    /cmooc/index.rst
    /cmooc/week1.rst
+
+Chrome Extension
+==============================
+
+.. toctree::
+   :caption: Chrome Extension
+   :maxdepth: 2
+
+   /chrome-extension/index.rst
