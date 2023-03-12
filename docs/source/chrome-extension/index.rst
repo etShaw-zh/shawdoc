@@ -5,13 +5,6 @@ Chrome extension
 
 .. _installation:
 
-项目初始化
-------------
-
-
-
-.. _usage:
-
 项目使用
 --------
 
